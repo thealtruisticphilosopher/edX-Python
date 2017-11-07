@@ -1,3 +1,4 @@
+# IT IS JUST A TESTING
 # The 6.00 Word Game
 
 import random
